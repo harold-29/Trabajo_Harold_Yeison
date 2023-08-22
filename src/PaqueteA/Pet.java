@@ -9,7 +9,8 @@ public class Pet {
 
     // Constructor por defectooo
     public Pet() {
-        // Puedes inicializar valores predeterminados aquí si lo deseas
+        nombre="";
+        edad=0;
     }
 
     // Constructor con parámetros
