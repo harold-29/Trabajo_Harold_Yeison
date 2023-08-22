@@ -7,7 +7,7 @@ public class Pet {
     private String nombre;
     private int edad;
 
-    // Constructor por defecto
+    // Constructor por defectooo
     public Pet() {
         // Puedes inicializar valores predeterminados aquí si lo deseas
     }
